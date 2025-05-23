@@ -1,2 +1,5 @@
-# wallet-info-git
-1
+# Crypto.com Web interview demo project
+
+#### dev env:
+
+yarn dev
